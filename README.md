@@ -1,18 +1,18 @@
 <h1 align="center">Hi! I'm Alessandro Oliveira</h1>
 
 <p align="center">
-  Passionate developer focused on technology and innovation.
+  I'm a technology enthusiast with hands-on experience in software development and problem-solving. I focus on building efficient, scalable, and impactful solutions.
 </p>
 
 ---
 
 ## 📌 About Me
 
-Developer with experience in .NET, Python, JavaScript/TypeScript. Currently working with Python.
+I'm a developer with experience in .NET, Python, and JavaScript/TypeScript. Currently, I work primarily with Python.
 
-- 🔭 Currently I'm working as a Python Developer
-- 🌱 I'm learning Full Stack Development
-- 👯 I’m looking to collaborate on Web Development Projects
+- 🔭 I’m currently working as a Python Developer.
+- 🌱 I'm expanding my skills in Full Stack Development and Software Architecture.
+- 👯 I’m open to collaborating on Web Development projects.
 - 😄 Pronouns: He/Him
 
 ---
@@ -31,7 +31,7 @@ Developer with experience in .NET, Python, JavaScript/TypeScript. Currently work
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="40" height="40" />
 
-### Control Versions
+### Version Control
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" />
 
@@ -64,3 +64,7 @@ Developer with experience in .NET, Python, JavaScript/TypeScript. Currently work
   <a href = "mailto:alessandro.ibes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandro-oliveira-32235270/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+---
+
+✨ Thanks for visiting my profile! Feel free to reach out or connect on LinkedIn.
